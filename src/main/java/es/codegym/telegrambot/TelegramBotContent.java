@@ -48,7 +48,6 @@ public class TelegramBotContent {
     public static final String STEP_5_TEXT = """
             *Gato Robosubyugador, nivel tres.*
             ¡Jaja! ¡Se encontró una GoPro abandonada en el estante!
-            Completa la tercera tarea: ¡póntela y enciéndela!
             """;
 
     public static final String STEP_6_TEXT = """
@@ -65,7 +64,6 @@ public class TelegramBotContent {
     public static final String STEP_7_TEXT = """
             *Gato Videobloguero, nivel cuatro.*
             Ahora, el material grabado debe ser transferido a la computadora.
-            Completa la cuarta tarea: ¡hackea la contraseña de la computadora!
             """;
 
     public static final String STEP_8_TEXT = """
